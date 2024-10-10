@@ -2,7 +2,7 @@
 # Sintetizator Muzical
 ## Descriere
 
-Un pian simplu
+Un pian simplu cu interfata MIDI
 
 ## Authors
 

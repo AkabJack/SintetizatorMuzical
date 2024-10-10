@@ -1,6 +1,8 @@
 
-# SintetizatorMuzical
-Descriere
+# Sintetizator Muzical
+## Descriere
+
+Un pian simplu
 
 ## Authors
 

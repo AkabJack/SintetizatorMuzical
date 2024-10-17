@@ -25,7 +25,7 @@ Un pian simplu cu interfata MIDI
 - Clape -> o octava, 12 taste (C C# D Eb E F F# G Ab A Bb B)
 - De la apasarea unui buton, sintetizatorul scoate sunete și poate sa trimita note pe interfața MIDI,
 - Potențiometru pentru modificarea volumului,
-- Potențiometru pentru modificarea octavei,
+- Encoder rotativ pentru modificarea octavei,
 
 ## Diagrama sistemului
 

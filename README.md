@@ -27,3 +27,6 @@ Un pian simplu cu interfata MIDI
 - Potențiometru pentru modificarea volumului,
 - Potențiometru pentru modificarea octavei,
 
+## Diagrama sistemului
+
+![System Diagram](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Diagrama%20de%20sistem.drawio.png)

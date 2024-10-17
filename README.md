@@ -22,7 +22,7 @@ Un pian simplu cu interfata MIDI
 
 - Marimea produsului: 28cm lungime si 10cm latime, inaltime de 2 cm acceptabila,
 - Alimentat de la 3 baterii Li-Ion (BMS),
-- Clape -> o octava, 12 taste
+- Clape -> o octava, 12 taste (C C# D Eb E F F# G Ab A Bb B)
 - De la apasarea unui buton, sintetizatorul scoate sunete și poate sa trimita note pe interfața MIDI,
 - Potențiometru pentru modificarea volumului,
 - Potențiometru pentru modificarea octavei,

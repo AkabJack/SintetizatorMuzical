@@ -34,3 +34,10 @@ Un pian simplu cu interfata MIDI
 ## Frecventa notelor
 
 ![Note Frequencies](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Note%20frequencies.png)
+
+
+## Microcontroler ales
+
+![uC1](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Alegere-uC-1.png)
+
+![uC2](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Alegere-uC-2.png)

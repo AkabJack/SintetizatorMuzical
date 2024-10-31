@@ -29,11 +29,11 @@ Un pian simplu cu interfata MIDI
 
 ## Diagrama sistemului
 
-![System Diagram](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Diagrama%20de%20sistem.drawio.png)
+![System Diagram](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Diagrama%20de%20sistem.png)
 
 ## Frecventa notelor
 
-![Note Frequencies](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Note%20frequencies.png)
+![Note Frequencies](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Note%20frequencies.png)
 
 
 ## Microcontroler ales

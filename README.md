@@ -29,7 +29,7 @@ Un pian simplu cu interfata MIDI
 
 ## Diagrama sistemului
 
-![System Diagram](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Diagrama%20de%20sistem.drawio.png)
+![System Diagram](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Diagrama%20de%20sistem.drawio.png)
 
 ## Frecventa notelor
 

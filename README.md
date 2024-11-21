@@ -40,5 +40,8 @@ Un pian simplu cu interfata MIDI
 Specificatiile principale pe care le cautam la microcontrolerul pe care o sa il folosim:
 ![uC1](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Alegere-uC-1.png)
 
-Specificatiile unor microcontrolere pe piata
+## Specificatiile unor microcontrolere pe piata
 ![uC2](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Alegere-uC-2.png)
+
+## Schema  
+![Schema](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/SintetizatorSchema.pdf)

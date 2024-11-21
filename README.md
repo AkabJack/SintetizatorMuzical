@@ -27,9 +27,10 @@ Un pian simplu cu interfata MIDI
 - Potențiometru pentru modificarea volumului,
 - Encoder rotativ pentru modificarea octavei,
 
-## Diagrama sistemului
+## Diagrama sistemului & Schema
 
 ![System Diagram](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Diagrama%20de%20sistem.png)
+![Schema](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/SintetizatorSchema.pdf)
 
 ## Frecventa notelor
 
@@ -42,6 +43,3 @@ Specificatiile principale pe care le cautam la microcontrolerul pe care o sa il 
 
 ## Specificatiile unor microcontrolere pe piata
 ![uC2](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Alegere-uC-2.png)
-
-## Schema  
-![Schema](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/SintetizatorSchema.pdf)

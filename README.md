@@ -14,9 +14,9 @@ Un pian simplu cu interfata MIDI
 
 - Responsabil proiect / Arhitect : Nistor Ciprian Alexandru
 - Testare si validare : Mitrea Stefan
-- Programare : Nistor Ciprian Alexandru, Hozu Cosmin
-- Designer Circuit: Nistor Ciprian Alexandru, Mitrea Stefan, Hozu Cosmin
-- Designer PCB : Mitrea Stefan, Hozu Cosmin, Nistor Ciprian Alexandru
+- Programare : Nistor Ciprian Alexandru
+- Designer Circuit: Hozu Cosmin
+- Designer PCB : Mitrea Stefan
 
 ## Specificații
 

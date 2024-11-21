@@ -27,10 +27,9 @@ Un pian simplu cu interfata MIDI
 - Potențiometru pentru modificarea volumului,
 - Encoder rotativ pentru modificarea octavei,
 
-## Diagrama sistemului & Schema
+## Diagrama sistemului
 
 ![System Diagram](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Diagrama%20de%20sistem.png)
-![Schema](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/SintetizatorSchema.pdf)
 
 ## Frecventa notelor
 

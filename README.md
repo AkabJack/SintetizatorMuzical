@@ -42,3 +42,6 @@ Specificatiile principale pe care le cautam la microcontrolerul pe care o sa il 
 
 ## Specificatiile unor microcontrolere pe piata
 ![uC2](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Alegere-uC-2.png)
+
+## Schematic
+![Schematic](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Schematic/SintetizatorSchema-1.png)

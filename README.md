@@ -45,5 +45,5 @@ Specificatiile principale pe care le cautam la microcontrolerul pe care o sa il 
 
 ## Schematic
 ![Schematic](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Schematic/SintetizatorSchema-1.png)
-## PSB DESIGNE
-![PSB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Sintetizator_3D.jpg)
+## PCB DESIGNE
+![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Sintetizator_3D.jpg)

@@ -48,7 +48,7 @@ Specificatiile principale pe care le cautam la microcontrolerul pe care o sa il 
 ## PCB DESIGNE
 Prima versiune de PCB.
 ![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB_3D.jpg)
-![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB_3D-1.jpg).
+![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB_3D-1.jpg)
 ## PCB LAYERS
 Buttom Layer
 ![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Bottom%20Layer.png)

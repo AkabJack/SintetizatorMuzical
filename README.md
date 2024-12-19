@@ -50,7 +50,7 @@ Prima versiune de PCB.
 ![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB_3D.jpg)
 ![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB_3D-1.jpg).
 ## PCB LAYERS
-Buttom Layers
+Buttom Layer
 ![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Bottom%20Layer.png)
-Front Layers
+Front Layer
 ![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Top%20Layer.png)

@@ -46,11 +46,11 @@ Specificatiile principale pe care le cautam la microcontrolerul pe care o sa il 
 ## Schematic
 ![Schematic](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Schematic/SintetizatorSchema-1.png)
 ## PCB DESIGNE
-Prima versiune de PCB.
-![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB_3D.jpg)
-![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB_3D-1.jpg)
+
+![PCB Design](https://github.com/etc-uc/SintetizatorMuzical/commit/d4e689117c81c733b5d76737e5c22dc261dfa673)
+![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB_3D_versiunea_2.jpg)
 ## PCB LAYERS
 Buttom Layer
-![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Bottom%20Layer.png)
+![PCB](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Bottom.png)
 Front Layer
-![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Top%20Layer.png)
+![PCB](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Front.png)

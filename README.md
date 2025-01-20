@@ -57,3 +57,6 @@ Buttom Layer
 ![PCB](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Bottom.png)
 Front Layer
 ![PCB](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Front.png)
+## Poze Macheta
+![PCB](https://github.com/etc-uc/SintetizatorMuzical/blob/main/top_macheta.jpg)
+![PCB](https://github.com/etc-uc/SintetizatorMuzical/blob/main/bottom_macheta.jpg)

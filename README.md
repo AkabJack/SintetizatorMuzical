@@ -35,6 +35,7 @@ Un pian simplu cu interfata MIDI
 
 ![Note Frequencies](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Note%20frequencies.png)
 
+![Program Microcontroler](https://github.com/etc-uc/SintetizatorMuzical/tree/main/Blink.X)
 
 ## Microcontroler ales
 Specificatiile principale pe care le cautam la microcontrolerul pe care o sa il folosim:
@@ -45,7 +46,7 @@ Specificatiile principale pe care le cautam la microcontrolerul pe care o sa il 
 
 ## Schematic
 ![Schematic](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Schematic/SintetizatorSchema-1.png)
-## PCB DESIGNE
+## PCB DESIGN
 
 ![PCB Design](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB%20Design.png)
 ![PCB 3D](https://github.com/etc-uc/SintetizatorMuzical/blob/main/PCB_3D_versiunea_2.jpg)

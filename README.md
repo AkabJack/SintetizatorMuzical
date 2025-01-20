@@ -35,7 +35,9 @@ Un pian simplu cu interfata MIDI
 
 ![Note Frequencies](https://github.com/etc-uc/SintetizatorMuzical/blob/main/Datasheet/Note%20frequencies.png)
 
-![Program Microcontroler](https://github.com/etc-uc/SintetizatorMuzical/tree/main/Blink.X)
+## Program microcontroler
+
+Programul il gasiti aici: ![Program Microcontroler](https://github.com/etc-uc/SintetizatorMuzical/tree/main/Blink.X)
 
 ## Microcontroler ales
 Specificatiile principale pe care le cautam la microcontrolerul pe care o sa il folosim:
